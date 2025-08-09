@@ -2,14 +2,14 @@
 A speedrun platformer made with Unity for a school project. Watch the video demo here: https://www.youtube.com/watch?v=ZxwHY0i8R6E
 
 ## Controls
-Move: WASD, arrow keys, or left stick (works while grappling too!)
-Control camera: mouse or right stick
-Jump: space or any face button
-Grapple: left mouse button, left shoulder button, or left trigger
-Zoom in: right mouse button, right shoulder button, or right trigger
-Extend grapple cable: S on keyboard or down on left stick
-Shorten grapple cable: space or any face button
-Moon jump cheat: Y on keyboard
+- Move: WASD, arrow keys, or left stick (works while grappling too!)
+- Control camera: mouse or right stick
+- Jump: space or any face button
+- Grapple: left mouse button, left shoulder button, or left trigger
+- Zoom in: right mouse button, right shoulder button, or right trigger
+- Extend grapple cable: S on keyboard or down on left stick
+- Shorten grapple cable: space or any face button
+- Moon jump cheat: Y on keyboard
 
 NOTE: these controls will work with an **Xbox controller** (or third party controller with the same layout) on **Windows.** Other controllers on different systems may not function correctly. 
 
